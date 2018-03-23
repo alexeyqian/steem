@@ -39,6 +39,11 @@ tests/performance_test
 doxygen
 
 build
+build_dev
+build_test
+build_prod
+cmake-build-debug
+.idea
 
 wallet.json
 witness_node_data_dir
